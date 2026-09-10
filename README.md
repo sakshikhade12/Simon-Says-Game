@@ -29,7 +29,7 @@ No build tools, no dependencies. Clone it and open the HTML file - that's the wh
 ## Running it locally
 
 ```bash
-git clone https://github.com/<your-username>/simon-says-game.git
+git clone https://github.com/sakshikhade12/Simon-Says-Game.git
 cd simon-says-game
 ```
 
