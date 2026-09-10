@@ -1,6 +1,6 @@
 # Simon Says Game
 
-A browser-based memory game where players watch a growing sequence of colors and repeat it back by clicking. Built from scratch with plain HTML, CSS, and JavaScript — no frameworks or libraries.
+A browser-based memory game where players watch a growing sequence of colors and repeat it back by clicking. Built from scratch with plain HTML, CSS, and JavaScript - no frameworks or libraries.
 
 **Live demo:** [https://github.com/sakshikhade12/Simon-Says-Game]
 
