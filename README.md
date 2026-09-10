@@ -30,7 +30,7 @@ No build tools, no dependencies. Clone it and open the HTML file - that's the wh
 
 ```bash
 git clone https://github.com/sakshikhade12/Simon-Says-Game.git
-cd simon-says-game
+cd Simon-Says-Game
 ```
 
 Then open `Simon_Says_Game.html` in a browser.
@@ -44,13 +44,12 @@ Then open `Simon_Says_Game.html` in a browser.
 
 ## Project structure
 
-```
-simon-says-game/
+Simon-Says-Game/
 ├── Simon_Says_Game.html
 ├── Simon_Says_Game.css
 ├── Simon_Says_Game.js
 └── README.md
-```
+
 
 ## Contact
 
