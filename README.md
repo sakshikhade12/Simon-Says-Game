@@ -33,7 +33,7 @@ git clone https://github.com/sakshikhade12/Simon-Says-Game.git
 cd Simon-Says-Game
 ```
 
-Then open `Simon_Says_Game.html` in a browser.
+Then open `index.html` in a browser.
 
 ## What I'd improve next
 
@@ -45,7 +45,7 @@ Then open `Simon_Says_Game.html` in a browser.
 ## Project structure
 
 Simon-Says-Game/
-├── Simon_Says_Game.html
+├── index.html
 ├── Simon_Says_Game.css
 ├── Simon_Says_Game.js
 └── README.md
