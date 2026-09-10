@@ -2,7 +2,7 @@
 
 A browser-based memory game where players watch a growing sequence of colors and repeat it back by clicking. Built from scratch with plain HTML, CSS, and JavaScript - no frameworks or libraries.
 
-**Live demo:** [https://github.com/sakshikhade12/Simon-Says-Game]
+**Live demo:** [file:///C:/Users/Advance%20solution/Desktop/JavaScript/Mini-Project/Simon%20says%20Game/Simon_Says_Game.html]
 
 ## About the project
 
